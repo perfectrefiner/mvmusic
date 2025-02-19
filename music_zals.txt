@@ -1,0 +1,91 @@
+#\u81f4\u7231\u4e3d\u4e1d https://www.renrendoc.com/paper/101079420.html
+>T460
+V0 I[Piano]
+V1 I[Piano]
+
+#1
+:0:  36q 2#6q |
+:1: 0h |
+
+#1_1
+{2
+:0:   36q 2#6q 36q  7q  26q 16q | 
+	 6h   0q 1q 3q 6q  | 
+	 7h  0q 3q 5#q  7q   | 
+	 16h  0q 3q 36q 2#6q | 
+:1:	  0h 0h 0h | 
+	 63q  34q 64q 0q    0h | 
+	 33q 34q 5#4q 0q    0h | 
+	 63q 34q 64q 0q  0h | 
+
+#2
+:0:	 36q 2#6q 36q 7q 26q 16q | 
+	 6h   0q 1q 3q 6q | 
+	 7h   0q 3q  16q  7q | 
+	 6 36q 2#6q | 
+:1:	  0h 0h 0h | 
+	 63q  34q 64q 0q    0h | 
+	 33q 34q 5#4q 0q    0h | 
+	 63q 34q 64q 0q  0h | 
+}
+
+#3
+:0:   6h  0q 7q 16q 26q  |
+:1:   63q 34q 64q  0q   0h |
+  
+#3_2 
+{2 
+:0:   36h. 5q 46q 36q  |
+	   26h.   4q  36q 26q  |
+	  16h.   3q  26q 16q  |
+	  7h  0q 3q  36q  0q 
+:1:   14q 54q 1q 0q  0h |
+	 53q 54q 74q 0q 0h |
+	 63q 34q 64q  0q  0h |
+	 33q  34q 34q  0q 0q 3q 
+
+#4
+:0:	 0q 36q  37q   0q 0q  2#7q |
+	 37q  0q 0q  2#6q 36q 26q |
+	 36q 2#6q 36q  7q  26q 16q |
+	 6h 0q 1q 3q 6q  |
+	 7h  0q 3q 5#q 7q 
+:1:	  36q 0q 0q 2#6q 36q 0q | 
+	 0q 2#6q 36q 0q 0h | 
+	 0h 0h 0h   | 
+	 63q 34q 64q 0q 0h | 
+	 33q  34q 5#4q 0q 0h 
+
+#5
+:0:	 16h  0q 3q 36q 2#6q | 
+	 36q 2#6q 36q  7q 26q 16q | 
+	 6h  0q 1q 3q 6q | 
+	 7h  0q 3q 16q 7q  | 
+	 6h  0q 7q  16q 26q | 
+:1:	 63q  34q 64q 0q 0h | 
+	 0h 0h 0h |
+	 63q 34q 64q 0q 0h | 
+	 33q  34q 5#4q 0q 0h | 
+	 63q 34q 64q 0q 0h | 
+}
+
+#5_2
+:0:	 64 | 
+:1:	 63 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
